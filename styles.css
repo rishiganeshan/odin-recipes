@@ -1,5 +1,32 @@
-h1 {
+* {
+    font-family: sans-serif;
+    padding: 7px;
+
+}
+h1{
     background-color: black;
     color: white;
-    font-family: sans-serif;
+}
+h2,h3 {
+    color: white;
+    background: rgba(0, 132, 255, 0.761);
+}
+/* h3 {
+    color: white;
+    background: rgba(0, 132, 255, 0.761);
+} */
+ul,ol,h3,h4 {
+    font-weight: 100;
+
+
+}
+
+a {
+    color: black;
+    background: rgba(0, 255, 247, 0.761);
+    font-size: large;
+    font-weight: 300;
+    margin: 10px;
+
+
 }
